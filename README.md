@@ -32,3 +32,36 @@ The application performs basic arithmetic operations using **HTML, CSS, and Java
 <img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/318b30f0-4cdc-4589-9363-0e600b50b0db" />
 
 
+---
+
+## ▶ How to Run the Project
+
+1. Download or clone the repository  
+2. Open `index.html` in any web browser  
+3. Start performing calculations  
+
+---
+
+## 🎯 Learning Outcomes
+
+- DOM manipulation using JavaScript  
+- Handling button click events  
+- Implementing arithmetic logic  
+- Input validation and error handling  
+- Creating interactive web applications  
+
+---
+
+## 🙏 Acknowledgment
+
+I would like to thank **SkillCraft Technology** for providing this opportunity to enhance my practical web development skills.
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn:**[https://www.linkedin.com/in/anamika-pawar-56a865326/]
+- **GitHub:** [https://github.com/anamikapawar79/]
+
+
+
