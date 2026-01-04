@@ -37,7 +37,7 @@ The application performs basic arithmetic operations using **HTML, CSS, and Java
 ## ▶ How to Run the Project
 
 1. Download or clone the repository  
-2. Open `index.html` in any web browser  
+2. Open `calculator1.html` in any web browser  
 3. Start performing calculations  
 
 ---
